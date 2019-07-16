@@ -1,4 +1,4 @@
 # Project-Colorized
 
-### Project purpose: Color theory
+### Project theme: Color theory
 ### HTML5 / CSS3
