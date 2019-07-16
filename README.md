@@ -1,2 +1,5 @@
-# Project---Colorized
-HTML5 &amp; CSS3
+# Project-Colorized
+
+Project name: Colorized
+Project purpose: Color theory
+HTML5 / CSS3
